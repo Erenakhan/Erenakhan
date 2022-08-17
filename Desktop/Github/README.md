@@ -24,10 +24,9 @@
 <br><br></br><br> 
 <details>
 <summary>:bulb: Github Stats </summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Erenakhan&theme=radical
-">
-<br />
-<details>
+<img src="https://github-readme-stats.vercel.app/api?username=Erenakhan&theme=radical">
+<br><br></br><br> 
+<details align="right">
 <summary>:bulb: Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </details>
