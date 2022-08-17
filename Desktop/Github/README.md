@@ -4,19 +4,17 @@
 
 ### Hi there, I'm Eren. :blush: 
 
-## React Developer 
+## I'm React Developer 
 
-<font color="lightblue">“Lets build a happy little cloud. <br>
-Lets build some happy little trees.” :art:</font>
+<font color="green" >Lets build some happy little trees.” :art:</font>
 
 ### Reach out to me
 
-<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />[linkedin]
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/mustafa-eren-akhan/
 
 ### Tech I Use
-
 
 <img width="25" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img width="25" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
