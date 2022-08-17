@@ -11,8 +11,10 @@
 ### Reach out to me
 
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" align="left" />][gmail]
 
 [linkedin]: https://www.linkedin.com/in/mustafa-eren-akhan/
+[gmail]: akhanmustafaeren@gmail.com
 
 <br></br>
 
