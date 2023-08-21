@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Eren. :blush: 
 
-## I'm React Developer 
+## I'm mern Developer 
 
 <font color="green" >"Lets `<code />` some happy little trees.” :art:</font>
 <br></br>
